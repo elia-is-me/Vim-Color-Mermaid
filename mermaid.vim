@@ -30,6 +30,7 @@ hi lCursor      guifg=#000000 guibg=#55cc55 gui=none
 
 hi CursorColumn guifg=NONE    guibg=#282828 gui=none
 hi CursorLine   guifg=NONE    guibg=#282828 gui=none
+hi CursorLineNr guifg=#5a5a5a    guibg=#282828 gui=none
 hi ColorColumn  guifg=NONE    guibg=#181818 gui=none
 
 hi Folded       guifg=#b0b0b0 guibg=#343434 gui=none
@@ -58,7 +59,7 @@ hi Visual                     guibg=#264f78 gui=none
 hi Directory    guifg=#bf8f67 guibg=bg      gui=none
 
 hi Underlined   guifg=#569cd6 guibg=bg      gui=underline
-hi Todo         guifg=#ffff30 guibg=bg      gui=underline
+hi Todo         guifg=#4a5430 guibg=bg      gui=underline
 hi Title        guifg=#e06070 guibg=NONE    gui=bold
 
 hi Ignore       guifg=#232323 guibg=NONE    gui=none
